@@ -139,5 +139,39 @@ To save time and money by having a single, searchable reference for acrylic cutt
 If your project only needs looks (transparent, colored), go with acrylic. If it needs strength & impact resistance, then polycarbonate is worth it.
 
 
+
+
+PCB Thickness 1.6
+Robu PCB Manufacturing Service  PCB Qty 5
+
+Dimensions(mm): 10*10 ----> 900.00
+Dimensions(mm): 20*20 ----> 900.00
+Dimensions(mm): 80*80 ----> 900.00
+Dimensions(mm): 90*90 ----> 900.00
+Dimensions(mm): 100*100 ----> 900.00
+
+Dimensions(mm): 101*101 ----> 900.00
+Dimensions(mm): 102*102 ----> 900.00
+Dimensions(mm): 103*103 ----> 1,823.00 
+Dimensions(mm): 104*104 ----> 1,823.00 
+
+
+Dimensions(mm): 105*105 ----> 1,845.00 
+Dimensions(mm): 106*106 ----> 1,868.00 
+
+
+Dimensions(mm): 110*110 ----> 1,935.00
+Dimensions(mm): 120*120 ----> 2,138.00 
+Dimensions(mm): 130*130 ----> 2,340.00 
+Dimensions(mm): 140*140 ----> 2,588.00 
+Dimensions(mm): 150*150 ----> 2,835.00
+Dimensions(mm): 160*160 ----> 3,083.00 
+Dimensions(mm): 170*170 ----> 3,375.00 
+Dimensions(mm): 180*180 ----> 3,668.00 
+Dimensions(mm): 190*190 ----> 3,983.00 
+Dimensions(mm): 200*200 ----> 4,320.00 
+
+
+
 ## License
 MIT
