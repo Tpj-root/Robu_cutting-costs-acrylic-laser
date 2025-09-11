@@ -135,6 +135,24 @@ To save time and money by having a single, searchable reference for acrylic cutt
 
 
 
+# TPJ Acrylic Price list – 30×30cm.dxf
+
+| Material    | Thickness | Sheet Size  | Price (₹) |
+| ----------- | --------- | ----------- | --------- |
+| **Acrylic** | 2 mm      | 1 ft × 1 ft | 96        |
+|             | 3 mm      | 1 ft × 1 ft | 129       |
+|             | 4 mm      | 1 ft × 1 ft | 174       |
+|             | 5 mm      | 1 ft × 1 ft | 220       |
+|             | 6 mm      | 1 ft × 1 ft | 220       |
+|             | 8 mm      | 1 ft × 1 ft | 350       |
+|             | 10 mm     | 1 ft × 1 ft | 435       |
+|             | 12 mm     | 1 ft × 1 ft | 545       |
+| **Hylam**   | 2.3 mm    | 8 ft × 4 ft | 1060      |
+
+
+
+
+
 
 If your project only needs looks (transparent, colored), go with acrylic. If it needs strength & impact resistance, then polycarbonate is worth it.
 
