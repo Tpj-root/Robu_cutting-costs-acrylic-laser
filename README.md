@@ -188,5 +188,162 @@ If your project only needs looks (transparent, colored), go with acrylic. If it 
 
 
 
+
+
+
+```
+https://robu.in/product/3d-printing-service/
+```
+
+
+Material Volume: 	2.88 cm3
+Model Dimensions: 	
+3.50 x 3.50 x 0.30 cm
+Print Time  (hh:mm:ss): 	00:19:30
+
+
+
+
+
+
+
+### 1 Printer 
+
+
+Printer : 0.2 mm Standard Quality
+
+1  - 	[x]  0.2 mm Standard Quality
+2  - 	[ ]  0.15 mm Medium Quality
+3  - 	[ ]  0.1 mm High Quality
+4  - 	[ ]  0.15 Standard Quality + 0.25 mm Nozzle
+5  - 	[ ]  0.2 mm Standard Quality + 0.6mm Nozzle
+
+
+
+
+ABS - Black
+ABS - Blue
+ABS - Green
+ABS - Grey
+ABS - Orange
+ABS - Natural
+ABS - Red
+ABS - Yellow
+ABS - White
+ABS - Light Blue
+
+
+ASA - Black
+ASA - White
+ASA - Grey
+ASA - Red
+ASA - Orange
+ASA - Green
+ASA - Blue
+ASA - Yellow
+
+
+Material : Engineering
+Nylon Carbon Fiber
+
+
+PETG - Black
+PETG - Blue
+PETG - Yellow
+PETG - White
+PETG - Natural
+PETG - Orange
+
+
+PLA - Black
+PLA - Orange
+PLA - Blue
+PLA - Yellow
+PLA - Green
+
+PLA - Red
+PLA - Grey
+PLA - Silver
+PLA - White
+PLA - Gold
+
+PLA - Purple
+PLA - Pink
+PLA - Brown
+PLA - Beige
+
+
+
+PLA Glass- Leman Yellow
+PLA Glass- Glass Orange
+PLA Glass- Watermelon Red
+
+
+
+
+
+TPU Flexible - 95A Red
+TPU Flexible - 95A Black
+TPU Flexible - 95A Grey
+TPU Flexible - 95A White
+TPU Flexible - 95A Orange
+TPU Flexible - 95A Blue
+TPU Flexible - 95A Yellow
+TPU Flexible - 95A Green
+
+
+
+
+
+
+ePLA
+
+ePLA - Luminous Rainbow
+ePLA - eStars
+ePLA - Silk Magic Green Blue
+ePLA - Silk Magic Red Blue
+ePLA - eSilk Blue
+ePLA - ePLA Marble
+ePLA - ePLA Wood
+
+
+
+3 Infill 
+
+
+
+10%
+15%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+
+
+
+FINAL_COST
+
+1 - PLA_Silver  Infill_10% =  36
+1 - PLA_Silver  Infill_15% =  36
+1 - PLA_Silver  Infill_20% =  36
+1 - PLA_Silver  Infill_30% =  37
+1 - PLA_Silver  Infill_40% =  37
+1 - PLA_Silver  Infill_50% =  38
+1 - PLA_Silver  Infill_60% =  40
+1 - PLA_Silver  Infill_70% =  41
+1 - PLA_Silver  Infill_80% =  43
+1 - PLA_Silver  Infill_90% =  45
+
+
+
+
+
+
+
+
 ## License
 MIT
