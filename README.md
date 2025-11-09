@@ -1,4 +1,36 @@
 
+
+
+
+# list of common diodes and transistors to keep in your parts box
+
+
+| Group                   | Values                                         | Typical Use                          |
+| ----------------------- | ---------------------------------------------- | ------------------------------------ |
+| **LED / Display**       | 100 Ω, 150 Ω, 220 Ω, 330 Ω, 470 Ω, 680 Ω, 1 kΩ | Current limiters, brightness control |
+| **Transistor / Signal** | 1 kΩ, 2.2 kΩ, 3.3 kΩ                           | Base resistors, logic interfaces     |
+| **Logic / Sensors**     | 4.7 kΩ, 10 kΩ, 47 kΩ                           | Pull-up / pull-down, input bias      |
+| **Analog / Timing**     | 100 kΩ, 1 MΩ                                   | Filters, bias, discharge paths       |
+
+
+0.1 µF, 1 µF, 10 µF, 100 µF — these four values cover almost every circuit’s decoupling and power smoothing need.
+
+1N4148, 1N4007, 1N5819, 5.1 V Zener
+
+BC547 (NPN), BC557 (PNP), IRLZ44N (N-MOSFET)
+
+
+
+
+
+
+
+
+
+
+
+
+
 # laser-cutting-prices-acrylic
 
 Simple repo to collect and compare laser-cutting prices, acrylic sheet types, and vendor notes.
